@@ -1,0 +1,31 @@
+
+
+.navigation{
+    background-color: aqua;
+    float: left;
+    padding:0;
+    margin:2px;
+    margin-left: 250px;
+    position:fixed;top: 0;
+    width: 1500px;
+
+}
+
+.heading{
+    margin-top: 70px;
+}
+.nav_link {
+    padding-left: 100px;
+    float: left;
+  }
+  
+
+.info {
+    margin-left: 10px;
+    padding: 0;
+    text-indent: 2%;
+  }
+
+  .clear{
+    clear:both;
+  }
